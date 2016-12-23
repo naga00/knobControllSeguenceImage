@@ -1,0 +1,16 @@
+<group>
+	<FPS>60</FPS>
+	<sequenceFPS>30</sequenceFPS>
+	<width>1280</width>
+	<height>720</height>
+	<dirName>images</dirName>
+	<!-- NONE NORMAL PALINDROME -->
+	<loopState>NORMAL</loopState>
+ 	<isGUI>1</isGUI>
+ 	<sequenceSize>600</sequenceSize>
+	<startPositon>0.5</startPositon>
+	<initThrust>1.0</initThrust>
+	<friction>0.97</friction>
+	<isFullscreen>0</isFullscreen>
+	<bFrameIndependent>1</bFrameIndependent>
+</group>
